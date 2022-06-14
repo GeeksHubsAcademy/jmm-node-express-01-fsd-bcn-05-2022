@@ -1,0 +1,23 @@
+{
+  "name": "ejemplo",
+  "version": "0.0.1",
+  "description": "Proyecto de ejemplo fsd BCN 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "js"
+  ],
+  "author": "Jose Marín",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
